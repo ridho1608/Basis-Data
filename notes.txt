@@ -1,4 +1,4 @@
 jobdesk
 -membuat database apotek
 - input data
-- seiap id ditandai dengan primari key
+- setiap id ditandai dengan primari key
