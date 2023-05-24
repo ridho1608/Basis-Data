@@ -2,4 +2,4 @@ Rencana Project
   Membuat Database sekolah
   Membuat Halaman Dashboard
   Membuat Halaman Profile
-  Membuat Halaman Pembayaran SPP
+  Membuat Halaman Pembayaran SPP.
